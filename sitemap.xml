@@ -5,48 +5,48 @@
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
-<url>
-  <loc>https://faisal-mahmood-developer.github.io/faisalmahmood.github.io/</loc>
-  <lastmod>2024-12-23T17:08:13+00:00</lastmod>
-  <priority>1.00</priority>
-  <image:image>
-    <image:loc>https://faisal-mahmood-developer.github.io/faisalmahmood.github.io/images/mine-pic.jpg</image:loc>
-    <image:title>Faisal Mahmood - HR Manager and Web Developer</image:title>
-    <image:caption>Faisal Mahmood - HR Manager and Web Developer</image:caption>
-  </image:image>
-</url>
+  <url>
+    <loc>https://faisal-mahmood-developer.github.io/faisalmahmood.github.io/</loc>
+    <lastmod>2024-12-23T17:08:13+00:00</lastmod>
+    <priority>1.00</priority>
+    <image:image>
+      <image:loc>https://faisal-mahmood-developer.github.io/faisalmahmood.github.io/images/mine-pic.jpg</image:loc>
+      <image:title>Faisal Mahmood - HR Manager and Web Developer</image:title>
+      <image:caption>Faisal Mahmood - HR Manager and Web Developer</image:caption>
+    </image:image>
+  </url>
 
-<url>
-  <loc>https://faisal-mahmood-developer.github.io/faisalmahmood.github.io/projects.html</loc>
-  <lastmod>2024-12-23T17:08:13+00:00</lastmod>
-  <priority>0.80</priority>
-  <image:image>
-    <image:loc>https://faisal-mahmood-developer.github.io/faisalmahmood.github.io/images/edited.jpg</image:loc>
-    <image:title>Faisal Mahmood - HR Manager and Web Developer</image:title>
-    <image:caption>Faisal Mahmood - HR Manager and Web Developer</image:caption>
-  </image:image>
-</url>
+  <url>
+    <loc>https://faisal-mahmood-developer.github.io/faisalmahmood.github.io/projects.html</loc>
+    <lastmod>2024-12-23T17:08:13+00:00</lastmod>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://faisal-mahmood-developer.github.io/faisalmahmood.github.io/images/edited.jpg</image:loc>
+      <image:title>Faisal Mahmood - HR Manager and Web Developer</image:title>
+      <image:caption>Faisal Mahmood - HR Manager and Web Developer</image:caption>
+    </image:image>
+  </url>
 
-<url>
-  <loc>https://faisal-mahmood-developer.github.io/faisalmahmood.github.io/resume.html</loc>
-  <lastmod>2024-12-23T17:08:13+00:00</lastmod>
-  <priority>0.80</priority>
-  <image:image>
-    <image:loc>https://faisal-mahmood-developer.github.io/faisalmahmood.github.io/images/sitImage.jpg</image:loc>
-    <image:title>Faisal Mahmood - HR Manager and Web Developer</image:title>
-    <image:caption>Faisal Mahmood - HR Manager and Web Developer</image:caption>
-  </image:image>
-</url>
+  <url>
+    <loc>https://faisal-mahmood-developer.github.io/faisalmahmood.github.io/resume.html</loc>
+    <lastmod>2024-12-23T17:08:13+00:00</lastmod>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://faisal-mahmood-developer.github.io/faisalmahmood.github.io/images/sitImage.jpg</image:loc>
+      <image:title>Faisal Mahmood - HR Manager and Web Developer</image:title>
+      <image:caption>Faisal Mahmood - HR Manager and Web Developer</image:caption>
+    </image:image>
+  </url>
 
-<url>
-  <loc>https://faisal-mahmood-developer.github.io/faisalmahmood.github.io/index.html</loc>
-  <lastmod>2024-12-23T17:08:13+00:00</lastmod>
-  <priority>0.64</priority>
-  <image:image>
-    <image:loc>https://faisal-mahmood-developer.github.io/faisalmahmood.github.io/images/faisal-111.jpg</image:loc>
-    <image:title>Faisal Mahmood - HR Manager and Web Developer</image:title>
-    <image:caption>Faisal Mahmood - HR Manager and Web Developer</image:caption>
-  </image:image>
-</url>
+  <url>
+    <loc>https://faisal-mahmood-developer.github.io/faisalmahmood.github.io/index.html</loc>
+    <lastmod>2024-12-23T17:08:13+00:00</lastmod>
+    <priority>0.64</priority>
+    <image:image>
+      <image:loc>https://faisal-mahmood-developer.github.io/faisalmahmood.github.io/images/faisal-111.jpg</image:loc>
+      <image:title>Faisal Mahmood - HR Manager and Web Developer</image:title>
+      <image:caption>Faisal Mahmood - HR Manager and Web Developer</image:caption>
+    </image:image>
+  </url>
 
 </urlset>

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://faisal-mahmood-developer.github.io/faisalmahmood.github.io/sitemap.xml
